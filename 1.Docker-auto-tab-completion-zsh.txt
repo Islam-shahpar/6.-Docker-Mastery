@@ -1,0 +1,7 @@
+1. Install oh-my-zsh
+2. Open terminal
+3. nano ~/.zshrc
+4. plugins=(... docker docker-compose) [... stands for other plugins etc. git]
+5. rm ~/.zcompdump*
+6. Restart terminal
+7. docker container run -- [then press tab]
